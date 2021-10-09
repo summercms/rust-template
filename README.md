@@ -1,2 +1,2 @@
 # rust-template
-Rust project starter template (cli + config file)
+rust project starter template (cli + config file)
